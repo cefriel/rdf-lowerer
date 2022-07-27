@@ -1,5 +1,7 @@
 # rdf-lowerer
 
+⚠️ **REPOSITORY ARCHIVED** Current implementation available in the repository https://github.com/cefriel/rdf-template.
+
 A template-based lowerer for RDF repositories exploiting Apache Velocity and maintained by Cefriel as a building block of the [Chimera](https://github.com/cefriel/chimera) solution for semantic data conversion.
 
 A demo of the tool is available in the folder [demo](https://github.com/cefriel/rdf-lowerer/tree/master/demo).
